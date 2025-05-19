@@ -1,2 +1,2 @@
 # alx-airbnb-database
-ERD/
+# ERD/
